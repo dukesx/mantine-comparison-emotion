@@ -2,7 +2,7 @@ repo_name: dukesx/mantine-comparison-emotion
 report_id: 5a31a191b47a9d11f868bc1b27ec7667
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:51:15+00:00'
+timestamp: '2024-02-29T18:38:19+00:00'
 requested_by: dukesx
 provider: github
 branch: master
@@ -31,7 +31,7 @@ tools:
   detection_source_url: https://github.com/dukesx/mantine-comparison-emotion
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 11.0.1
   open_source: true
